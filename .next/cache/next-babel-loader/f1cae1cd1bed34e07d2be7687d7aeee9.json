@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { NextPage } from \"next\";","map":{"version":3,"sources":["/home/anet/ドキュメント/nodeSmpleGame/pages/index.js"],"names":["NextPage"],"mappings":"AAAA,SAAQA,QAAR,QAAuB,MAAvB","sourcesContent":["import {NextPage} from \"next\";\n"]},"metadata":{},"sourceType":"module"}
